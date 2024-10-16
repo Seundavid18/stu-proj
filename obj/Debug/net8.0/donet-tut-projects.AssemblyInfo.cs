@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("donet-tut-projects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd0a1e9da28fd23667f66e53018e52b0608e874")]
 [assembly: System.Reflection.AssemblyProductAttribute("donet-tut-projects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("donet-tut-projects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

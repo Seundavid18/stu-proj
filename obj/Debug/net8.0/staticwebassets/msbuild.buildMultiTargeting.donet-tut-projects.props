@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/donet-tut-projects.props" />
+</Project>
